@@ -311,4 +311,4 @@ function createLabelAndLine(labelData) {
   }
 }
 
-// export { Label }
+export { DOMLabel, createLabelAndLine }
