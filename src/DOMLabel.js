@@ -1,5 +1,5 @@
 
-import { domtoimage } from 'dom-to-image-more'
+import domtoimage from 'dom-to-image-more';
 
 
 /** Class representing a label.
