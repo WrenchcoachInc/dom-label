@@ -6,8 +6,7 @@
   "main": "DOMLabel.js",
   "license": "MIT",
   "files": [
-    "/dist/dom-label.js",
-    "README.md"
+    "/dist/dom-label.js"
   ],
   "scripts": {
     "build:dev": "webpack --watch --config webpack-dev.config.js",
