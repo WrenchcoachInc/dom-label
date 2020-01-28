@@ -2,9 +2,13 @@
   "name": "@wrenchcoach/dom-label",
   "filename": "dom-label",
   "libraryName": "DOMLabel",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "DOMLabel.js",
   "license": "MIT",
+  "files": [
+    "/dist/dom-label.js",
+    "README.md"
+  ],
   "scripts": {
     "build:dev": "webpack --watch --config webpack-dev.config.js",
     "build": "webpack --config webpack-prod.config.js",
